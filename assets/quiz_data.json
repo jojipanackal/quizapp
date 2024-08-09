@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question": "What programming language is used to write Flutter apps?",
+      "options": ["Swift", "Kotlin", "JavaScript", "Dart"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What widget is used to display text in Flutter?",
+      "options": ["Row", "TextField", "Text", "Container"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which Flutter widget allows you to create a scrollable list of widgets?",
+      "options": ["GridView", "ListView", "Column", "Stack"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the name of the UI toolkit used by Flutter?",
+      "options": ["Cupertino", "UIKit", "Flutter UI", "Material Design"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What command is used to create a new Flutter project?",
+      "options": ["flutter new", "flutter create", "flutter init", "flutter start"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which widget is used for adding padding in Flutter?",
+      "options": ["Padding", "Margin", "Inset", "Spacer"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the primary function of the `build` method in a Flutter widget?",
+      "options": ["To handle user input", "To manage app lifecycle", "To initialize state", "To render UI elements"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "How do you specify the color of a widget in Flutter?",
+      "options": ["Style property", "Decoration property", "Color property", "BackgroundColor property"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which package management tool is used for Flutter?",
+      "options": ["pub", "composer", "npm", "maven"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of the `pubspec.yaml` file in a Flutter project?",
+      "options": ["To manage user permissions", "To configure database connections", "To define project dependencies", "To specify build settings"],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which widget is used to create a button in Flutter?",
+      "options": ["RaisedButton", "FlatButton", "OutlineButton", "ElevatedButton"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What does the `setState` method do in Flutter?",
+      "options": ["Updates the UI asynchronously", "Rebuilds the widget", "Initializes widget state", "Manages navigation"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which widget allows you to arrange children widgets in a horizontal row?",
+      "options": ["Column", "Row", "Flex", "Stack"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the use of the `Navigator` widget in Flutter?",
+      "options": ["For managing navigation between screens", "For handling user input", "For animating widget transitions", "For styling widgets"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which widget provides a basic layout structure in Flutter?",
+      "options": ["Box", "Panel", "Container", "Frame"],
+      "correctAnswer": 2
+    }
+  ]
+}
