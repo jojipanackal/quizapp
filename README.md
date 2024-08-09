@@ -4,6 +4,8 @@ Quiz App Project
 
 ## Getting Started
 
+Before running the app, do 'pub get' after opening pubspec.yaml
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
