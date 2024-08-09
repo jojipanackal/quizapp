@@ -1,79 +1,74 @@
 {
   "questions": [
     {
-      "question": "What programming language is used to write Flutter apps?",
-      "options": ["Swift", "Kotlin", "JavaScript", "Dart"],
-      "correctAnswer": 3
-    },
-    {
-      "question": "What widget is used to display text in Flutter?",
-      "options": ["Row", "TextField", "Text", "Container"],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Which Flutter widget allows you to create a scrollable list of widgets?",
-      "options": ["GridView", "ListView", "Column", "Stack"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "What is the name of the UI toolkit used by Flutter?",
-      "options": ["Cupertino", "UIKit", "Flutter UI", "Material Design"],
-      "correctAnswer": 3
-    },
-    {
-      "question": "What command is used to create a new Flutter project?",
-      "options": ["flutter new", "flutter create", "flutter init", "flutter start"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "Which widget is used for adding padding in Flutter?",
-      "options": ["Padding", "Margin", "Inset", "Spacer"],
+      "question": "Which Flutter widget is used for creating a form with input fields?",
+      "options": ["Form", "InputForm", "FieldSet", "InputContainer"],
       "correctAnswer": 0
     },
     {
-      "question": "What is the primary function of the `build` method in a Flutter widget?",
-      "options": ["To handle user input", "To manage app lifecycle", "To initialize state", "To render UI elements"],
-      "correctAnswer": 3
-    },
-    {
-      "question": "How do you specify the color of a widget in Flutter?",
-      "options": ["Style property", "Decoration property", "Color property", "BackgroundColor property"],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Which package management tool is used for Flutter?",
-      "options": ["pub", "composer", "npm", "maven"],
-      "correctAnswer": 0
-    },
-    {
-      "question": "What is the purpose of the `pubspec.yaml` file in a Flutter project?",
-      "options": ["To manage user permissions", "To configure database connections", "To define project dependencies", "To specify build settings"],
-      "correctAnswer": 2
-    },
-    {
-      "question": "Which widget is used to create a button in Flutter?",
-      "options": ["RaisedButton", "FlatButton", "OutlineButton", "ElevatedButton"],
-      "correctAnswer": 3
-    },
-    {
-      "question": "What does the `setState` method do in Flutter?",
-      "options": ["Updates the UI asynchronously", "Rebuilds the widget", "Initializes widget state", "Manages navigation"],
+      "question": "What is the primary purpose of the `State` class in Flutter?",
+      "options": ["To define widget layout", "To hold and manage widget state", "To style widgets", "To handle network requests"],
       "correctAnswer": 1
     },
     {
-      "question": "Which widget allows you to arrange children widgets in a horizontal row?",
-      "options": ["Column", "Row", "Flex", "Stack"],
-      "correctAnswer": 1
-    },
-    {
-      "question": "What is the use of the `Navigator` widget in Flutter?",
-      "options": ["For managing navigation between screens", "For handling user input", "For animating widget transitions", "For styling widgets"],
+      "question": "Which widget in Flutter is used to display an image?",
+      "options": ["Image", "Picture", "Photo", "Graphic"],
       "correctAnswer": 0
     },
     {
-      "question": "Which widget provides a basic layout structure in Flutter?",
-      "options": ["Box", "Panel", "Container", "Frame"],
-      "correctAnswer": 2
+      "question": "What does the `initState` method do in a Flutter widget?",
+      "options": ["Sets up the widget for display", "Initializes state when a widget is created", "Updates the UI", "Manages widget transitions"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which widget is used to create a tabbed interface in Flutter?",
+      "options": ["TabBar", "TabController", "Tabs", "TabView"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What does the `Future` class in Dart represent?",
+      "options": ["An asynchronous operation", "A synchronous computation", "A UI layout", "A widget's lifecycle"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How do you handle user gestures in Flutter?",
+      "options": ["GestureDetector", "UserInputHandler", "TapRecognizer", "GestureHandler"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which widget is used for creating a vertical list of widgets in Flutter?",
+      "options": ["Column", "ListView", "GridView", "Stack"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What is the function of the `Scaffold` widget in Flutter?",
+      "options": ["To provide a basic material design layout structure", "To create custom animations", "To handle user input", "To manage app state"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which method is used to trigger an animation in Flutter?",
+      "options": ["animateTo", "startAnimation", "triggerAnimation", "animate"],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is the purpose of the `MediaQuery` widget in Flutter?",
+      "options": ["To get information about the device's screen size and orientation", "To manage user permissions", "To handle navigation", "To define app themes"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "How can you add a border to a widget in Flutter?",
+      "options": ["Border property", "Decoration property", "Shape property", "Outline property"],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which widget is used to align children widgets in Flutter?",
+      "options": ["Align", "Center", "Container", "Layout"],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is the purpose of the `Stream` class in Dart?",
+      "options": ["To handle a sequence of asynchronous events", "To manage synchronous data", "To control widget state", "To manage navigation"],
+      "correctAnswer": 0
     }
   ]
 }
